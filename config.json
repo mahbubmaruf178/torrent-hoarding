@@ -1,0 +1,15 @@
+{
+  "_comment": "name property is used to identify the configuration and it should be unique",
+  "deleteaferupload": true,
+  "download_path": "downloads",
+  "telegram": [
+    {
+      "name": "telegram",
+      "api_id": 222222222,
+      "api_hash": "your ",
+      "session_name": "session.dat",
+      "download_path": "downloads",
+      "channelid": "your_channel_id"
+    }
+  ]
+}
